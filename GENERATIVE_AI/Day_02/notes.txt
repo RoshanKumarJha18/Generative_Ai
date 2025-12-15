@@ -1,0 +1,11 @@
+Topics
+
+Need to install node
+
+Need any code editor (vs code)
+
+Create folder and create package.json file
+
+Write simple code and run
+
+Use module type

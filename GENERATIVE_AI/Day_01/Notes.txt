@@ -1,0 +1,21 @@
+What is Gen Ai?
+->Gen Ai is a Artificial Intelligence that can create  new content     such as text,images,audio,video and code etc.
+->it does'nt just analyze data
+-> it generates new thing that look like they were created by humans
+
+Traditional Ai = Detect , arrange or organise ,predict.
+
+GenAi = create something new
+
+example : 
+Traditional Ai -> identify if the image has a cat or dog
+Gen ai -> create a new image of a cat wearing sunglasses.
+
+Gen ai is powered by large model like gpt , gemini trained on huge data.
+
+how it works types of generative ai?
+Text genaration -> write articles,code,stories
+Image genaration -> make art,logo,design
+Audio genaration -> voice cloning , music creation
+Video genaration -> create short ai videos
+code genaration -> write & explain code.
